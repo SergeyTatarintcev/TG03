@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+TG03\config.py
 # C extensions
 *.so
 
@@ -179,3 +179,4 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+.gitignore
