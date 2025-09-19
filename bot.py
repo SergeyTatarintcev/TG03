@@ -8,6 +8,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.storage.memory import MemoryStorage
 
+
 # Если удобнее из .env, можно заменить на dotenv; здесь для простоты:
 from config import TOKEN
 
